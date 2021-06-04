@@ -1,0 +1,1002 @@
+[
+  {
+    "id": "0704.0108",
+    "submitter": "Sergey Gubin",
+    "title": "Reducing SAT to 2-SAT",
+    "comments": "8 pages",
+    "categories": "cs.CC",
+    "abstract": "  Description of a polynomial time reduction of SAT to 2-SAT of polynomial\nsize.\n",
+    "update_date": "2007-05-23",
+    "author": "Sergey Gubin"
+  },
+  {
+    "id": "0704.0218",
+    "submitter": "Yuri Pritykin",
+    "title": "On Almost Periodicity Criteria for Morphic Sequences in Some Particular\n  Cases",
+    "comments": "9 pages. To be presented on 11th International Conference on\n  Developments in Language Theory (DLT'2007), Turku, Finland, July 2007.",
+    "categories": "cs.DM cs.LO",
+    "abstract": "  In some particular cases we give criteria for morphic sequences to be almost\nperiodic (=uniformly ",
+    "update_date": "2007-05-23",
+    "author": "Yuri Pritykin"
+  },
+  {
+    "id": "0704.0301",
+    "submitter": "Akitoshi Kawamura",
+    "title": "Differential Recursion and Differentially Algebraic Functions",
+    "comments": "14 pages, 3 figures",
+    "categories": "cs.CC",
+    "abstract": "  Moore introduced a class of real-valued \"recursive\" functions by analogy with\nKleene's formulation",
+    "update_date": "2009-04-19",
+    "author": "Akitoshi Kawamura"
+  },
+  {
+    "id": "0704.0309",
+    "submitter": "Guohun Zhu",
+    "title": "The Complexity of HCP in Digraps with Degree Bound Two",
+    "comments": "10 pages, 4 figures, had been submitted to a Journal",
+    "categories": "cs.CC cs.DM",
+    "abstract": "  The Hamiltonian cycle problem (HCP) in digraphs D with degree bound two is\nsolved by two mappings ",
+    "update_date": "2011-11-09",
+    "author": "Guohun Zhu"
+  },
+  {
+    "id": "0704.0492",
+    "submitter": "Shenghui Su",
+    "title": "Refuting the Pseudo Attack on the REESSE1+ Cryptosystem",
+    "comments": "14 pages, and 2 table",
+    "categories": "cs.CR",
+    "abstract": "  We illustrate through example 1 and 2 that the condition at theorem 1 in [8]\ndissatisfies necessit",
+    "update_date": "2010-02-04",
+    "author": "Shenghui Su"
+  },
+  {
+    "id": "0704.0834",
+    "submitter": "Anatoly Rodionov",
+    "title": "P-adic arithmetic coding",
+    "comments": "29 pages",
+    "categories": "cs.DS",
+    "abstract": "  A new incremental algorithm for data compression is presented. For a sequence\nof input symbols alg",
+    "update_date": "2007-05-23",
+    "author": "Anatoly Rodionov"
+  },
+  {
+    "id": "0704.0985",
+    "submitter": "Mohd Abubakr",
+    "title": "Architecture for Pseudo Acausal Evolvable Embedded Systems",
+    "comments": "4 pages, 2 figures. Submitted to SASO 2007",
+    "categories": "cs.NE cs.AI",
+    "abstract": "  Advances in semiconductor technology are contributing to the increasing\ncomplexity in the design o",
+    "update_date": "2007-05-23",
+    "author": "Mohd Abubakr"
+  },
+  {
+    "id": "0704.1020",
+    "submitter": "Gyorgy Ottucsak",
+    "title": "The on-line shortest path problem under partial monitoring",
+    "comments": "35 pages",
+    "categories": "cs.LG cs.SC",
+    "abstract": "  The on-line shortest path problem is considered under various models of\npartial monitoring. Given ",
+    "update_date": "2007-05-23",
+    "author": "Andras Gyorgy"
+  },
+  {
+    "id": "0704.1028",
+    "submitter": "Jianlin Cheng",
+    "title": "A neural network approach to ordinal regression",
+    "comments": "8 pages",
+    "categories": "cs.LG cs.AI cs.NE",
+    "abstract": "  Ordinal regression is an important type of learning, which has properties of\nboth classification a",
+    "update_date": "2007-05-23",
+    "author": "Jianlin Cheng"
+  },
+  {
+    "id": "0704.1196",
+    "submitter": "Shengchao Ding",
+    "title": "Novel algorithm to calculate hypervolume indicator of Pareto\n  approximation set",
+    "comments": "9 pages, 2 figures. Comments are welcome",
+    "categories": "cs.CG cs.NE",
+    "abstract": "  Hypervolume indicator is a commonly accepted quality measure for comparing\nPareto approximation se",
+    "update_date": "2007-05-23",
+    "author": "Qing Yang"
+  },
+  {
+    "id": "0704.1198",
+    "submitter": "Minkyu Kim",
+    "title": "A Doubly Distributed Genetic Algorithm for Network Coding",
+    "comments": "8 pages, 7 figures, accepted to the Genetic and Evolutionary\n  Computation Conference (GECCO 2007)",
+    "categories": "cs.NE cs.NI",
+    "abstract": "  We present a genetic algorithm which is distributed in two novel ways: along\ngenotype and temporal",
+    "update_date": "2007-05-23",
+    "author": "Minkyu Kim"
+  },
+  {
+    "id": "0704.1267",
+    "submitter": "Laurence Likforman",
+    "title": "Text Line Segmentation of Historical Documents: a Survey",
+    "comments": "25 pages, submitted version, To appear in International Journal on\n  Document Analysis and Recognition, On line version available at\n  http://www.springerlink.com/content/k2813176280456k3/",
+    "categories": "cs.CV",
+    "abstract": "  There is a huge amount of historical documents in libraries and in various\nNational Archives that ",
+    "update_date": "2007-05-23",
+    "author": "Laurence Likforman-Sulem"
+  },
+  {
+    "id": "0704.1675",
+    "submitter": "Kristina Lerman",
+    "title": "Exploiting Social Annotation for Automatic Resource Discovery",
+    "comments": "6 pages, submitted to AAAI07 workshop on Information Integration on\n  the Web",
+    "categories": "cs.AI cs.CY cs.DL",
+    "abstract": "  Information integration applications, such as mediators or mashups, that\nrequire access to informa",
+    "update_date": "2016-09-08",
+    "author": "Anon Plangprasopchok"
+  },
+  {
+    "id": "0704.1676",
+    "submitter": "Kristina Lerman",
+    "title": "Personalizing Image Search Results on Flickr",
+    "comments": "12 pages, submitted to AAAI07 workshop on Intelligent Information\n  Personalization",
+    "categories": "cs.IR cs.AI cs.CY cs.DL cs.HC",
+    "abstract": "  The social media site Flickr allows users to upload their photos, annotate\nthem with tags, submit ",
+    "update_date": "2007-05-23",
+    "author": "Kristina Lerman"
+  },
+  {
+    "id": "0704.1694",
+    "submitter": "Sergey Yekhanin",
+    "title": "Locally Decodable Codes From Nice Subsets of Finite Fields and Prime\n  Factors of Mersenne Numbers",
+    "comments": "18 pages",
+    "categories": "cs.CC math.NT",
+    "abstract": "  A k-query Locally Decodable Code (LDC) encodes an n-bit message x as an N-bit\ncodeword C(x), such ",
+    "update_date": "2007-05-23",
+    "author": "Kiran S. Kedlaya"
+  },
+  {
+    "id": "0704.1783",
+    "submitter": "Francesco Santini",
+    "title": "Unicast and Multicast Qos Routing with Soft Constraint Logic Programming",
+    "comments": "45 pages",
+    "categories": "cs.LO cs.AI cs.NI",
+    "abstract": "  We present a formal model to represent and solve the unicast/multicast\nrouting problem in networks",
+    "update_date": "2009-09-29",
+    "author": "Stefano Bistarelli"
+  },
+  {
+    "id": "0704.1827",
+    "submitter": "Gerald Krafft",
+    "title": "Transaction-Oriented Simulation In Ad Hoc Grids",
+    "comments": "101 pages (plus 131 appendix), 23 figures, 11 tables, MSc thesis for\n  degree in Advanced Computer Science at the Westminster University, London",
+    "categories": "cs.DC",
+    "abstract": "  This paper analyses the possibilities of performing parallel\ntransaction-oriented simulations with",
+    "update_date": "2007-05-23",
+    "author": "Gerald Krafft"
+  },
+  {
+    "id": "0704.2295",
+    "submitter": "Hassan Jameel",
+    "title": "Using Image Attributes for Human Identification Protocols",
+    "comments": "24 pages, 8 figures",
+    "categories": "cs.CR",
+    "abstract": "  A secure human identification protocol aims at authenticating human users to\na remote server when ",
+    "update_date": "2007-05-23",
+    "author": "Hassan Jameel"
+  },
+  {
+    "id": "0704.2448",
+    "submitter": "Ugo Dal Lago",
+    "title": "Light Logics and Optimal Reduction: Completeness and Complexity",
+    "comments": "21 pages",
+    "categories": "cs.LO cs.PL",
+    "abstract": "  Typing of lambda-terms in Elementary and Light Affine Logic (EAL, LAL, resp.)\nhas been studied for",
+    "update_date": "2007-05-23",
+    "author": "Patrick Baillot"
+  },
+  {
+    "id": "0704.2542",
+    "submitter": "Joan Llobera",
+    "title": "Narratives within immersive technologies",
+    "comments": "5 pages",
+    "categories": "cs.HC",
+    "abstract": "  The main goal of this project is to research technical advances in order to\nenhance the possibilit",
+    "update_date": "2007-05-23",
+    "author": "Joan Llobera"
+  },
+  {
+    "id": "0704.2900",
+    "submitter": "Marco Maggesi",
+    "title": "Higher-order theories",
+    "comments": "12 pages",
+    "categories": "cs.LO",
+    "abstract": "  We extend our approach to abstract syntax (with binding constructions)\nthrough modules and lineari",
+    "update_date": "2008-09-09",
+    "author": "Andre' Hirschowitz"
+  },
+  {
+    "id": "0704.2963",
+    "submitter": "Stefan Pohl",
+    "title": "Using Access Data for Paper Recommendations on ArXiv.org",
+    "comments": "73 pages, 31 figures, Master's Thesis",
+    "categories": "cs.DL cs.IR",
+    "abstract": "  This thesis investigates in the use of access log data as a source of\ninformation for identifying ",
+    "update_date": "2007-05-23",
+    "author": "Stefan Pohl"
+  },
+  {
+    "id": "0704.3141",
+    "submitter": "Evgueni Petrov",
+    "title": "Algorithm for Evaluation of the Interval Power Function of Unconstrained\n  Arguments",
+    "comments": "3 pages",
+    "categories": "cs.MS",
+    "abstract": "  We describe an algorithm for evaluation of the interval extension of the\npower function of variabl",
+    "update_date": "2007-05-23",
+    "author": "Evgueni Petrov"
+  },
+  {
+    "id": "0704.3197",
+    "submitter": "Reinhard Klette",
+    "title": "Euclidean Shortest Paths in Simple Cube Curves at a Glance",
+    "comments": "8 pages",
+    "categories": "cs.CG cs.DM",
+    "abstract": "  This paper reports about the development of two provably correct approximate\nalgorithms which calc",
+    "update_date": "2007-05-23",
+    "author": "Fajie Li"
+  },
+  {
+    "id": "0704.3268",
+    "submitter": "Koray Karahaliloglu",
+    "title": "2D Path Solutions from a Single Layer Excitable CNN Model",
+    "comments": "24 pages, 9 figures",
+    "categories": "cs.RO cs.NE",
+    "abstract": "  An easily implementable path solution algorithm for 2D spatial problems,\nbased on excitable/progra",
+    "update_date": "2007-05-23",
+    "author": "Koray Karahaliloglu"
+  },
+  {
+    "id": "0704.3316",
+    "submitter": "Ciro Cattuto",
+    "title": "Vocabulary growth in collaborative tagging systems",
+    "comments": "6 pages, 7 figures",
+    "categories": "cs.IR cond-mat.stat-mech cs.CY physics.data-an",
+    "abstract": "  We analyze a large-scale snapshot of del.icio.us and investigate how the\nnumber of different tags ",
+    "update_date": "2007-05-23",
+    "author": "Ciro Cattuto"
+  },
+  {
+    "id": "0704.3433",
+    "submitter": "Tshilidzi Marwala",
+    "title": "Bayesian approach to rough set",
+    "comments": "20 pages, 3 figures",
+    "categories": "cs.AI",
+    "abstract": "  This paper proposes an approach to training rough set models using Bayesian\nframework trained usin",
+    "update_date": "2007-05-23",
+    "author": "Tshilidzi Marwala"
+  },
+  {
+    "id": "0704.3635",
+    "submitter": "Fulufhelo Vincent Nelwamondo",
+    "title": "Rough Sets Computations to Impute Missing Data",
+    "comments": "19 pages",
+    "categories": "cs.CV cs.IR",
+    "abstract": "  Many techniques for handling missing data have been proposed in the\nliterature. Most of these tech",
+    "update_date": "2007-05-23",
+    "author": "Fulufhelo Vincent Nelwamondo"
+  },
+  {
+    "id": "0704.3662",
+    "submitter": "Tian-Jian Jiang",
+    "title": "An Automated Evaluation Metric for Chinese Text Entry",
+    "comments": "8 pages",
+    "categories": "cs.HC cs.CL",
+    "abstract": "  In this paper, we propose an automated evaluation metric for text entry. We\nalso consider possible",
+    "update_date": "2013-10-29",
+    "author": "Mike Tian-Jian Jiang"
+  },
+  {
+    "id": "0704.3665",
+    "submitter": "Tian-Jian Jiang",
+    "title": "On the Development of Text Input Method - Lessons Learned",
+    "comments": "10 pages",
+    "categories": "cs.CL cs.HC",
+    "abstract": "  Intelligent Input Methods (IM) are essential for making text entries in many\nEast Asian scripts, b",
+    "update_date": "2007-05-23",
+    "author": "Mike Tian-Jian Jiang"
+  },
+  {
+    "id": "0704.3746",
+    "submitter": "Yufang Xi",
+    "title": "Distributed Algorithms for Spectrum Allocation, Power Control, Routing,\n  and Congestion Control in Wireless Networks",
+    "comments": "14 pages, 5 figures, submitted to IEEE/ACM Transactions on Networking",
+    "categories": "cs.NI",
+    "abstract": "  We develop distributed algorithms to allocate resources in multi-hop wireless\nnetworks with the ai",
+    "update_date": "2016-11-15",
+    "author": "Yufang Xi"
+  },
+  {
+    "id": "0704.3835",
+    "submitter": "K. Y. Michael Wong",
+    "title": "Minimizing Unsatisfaction in Colourful Neighbourhoods",
+    "comments": "28 pages, 12 figures, substantially revised with additional\n  explanation",
+    "categories": "cs.DS cond-mat.dis-nn cs.CC",
+    "abstract": "  Colouring sparse graphs under various restrictions is a theoretical problem\nof significant practic",
+    "update_date": "2009-11-13",
+    "author": "K. Y. Michael Wong"
+  },
+  {
+    "id": "0704.3931",
+    "submitter": "Martin Lange",
+    "title": "The Complexity of Model Checking Higher-Order Fixpoint Logic",
+    "comments": "33 pages, 2 figures, to be published in Logical Methods in Computer\n  Science",
+    "categories": "cs.LO",
+    "abstract": "  Higher-Order Fixpoint Logic (HFL) is a hybrid of the simply typed\n\\lambda-calculus and the modal \\",
+    "update_date": "2015-07-01",
+    "author": "Roland Axelsson"
+  },
+  {
+    "id": "0705.0025",
+    "submitter": "Andreas Martin Lisewski",
+    "title": "Can the Internet cope with stress?",
+    "comments": "4 pages",
+    "categories": "cs.HC cs.AI",
+    "abstract": "  When will the Internet become aware of itself? In this note the problem is\napproached by asking an",
+    "update_date": "2007-05-23",
+    "author": "Andreas Martin Lisewski"
+  },
+  {
+    "id": "0705.0086",
+    "submitter": "Maurice Margenstern",
+    "title": "About the domino problem in the hyperbolic plane, a new solution:\n  complement",
+    "comments": "20 pages",
+    "categories": "cs.CG cs.DM",
+    "abstract": "  In this paper, we complete the construction of paper arXiv:cs.CG/0701096v2.\nTogether with the proo",
+    "update_date": "2009-07-06",
+    "author": "Maurice Margenstern"
+  },
+  {
+    "id": "0705.0150",
+    "submitter": "Myung-Sin Song",
+    "title": "Comparison of Discrete and Continuous Wavelet Transforms",
+    "comments": "22 pages, Springer Encyclopedia of Complexity and Systems Science,\n  the full version with figures is available at\n  http://www.siue.edu/~msong/Research/ency.pdf",
+    "categories": "cs.CE",
+    "abstract": "  In this paper we outline several points of view on the interplay between\ndiscrete and continuous w",
+    "update_date": "2011-11-09",
+    "author": "Palle E. T. Jorgensen"
+  },
+  {
+    "id": "0705.0178",
+    "submitter": "Abhishek Parakh",
+    "title": "Oblivious Transfer based on Key Exchange",
+    "comments": "10 pages",
+    "categories": "cs.CR",
+    "abstract": "  Key-exchange protocols have been overlooked as a possible means for\nimplementing oblivious transfe",
+    "update_date": "2008-01-10",
+    "author": "Abhishek Parakh"
+  },
+  {
+    "id": "0705.0199",
+    "submitter": "Erik Berglund",
+    "title": "The Parameter-Less Self-Organizing Map algorithm",
+    "comments": "29 pages, 27 figures. Based on publication in IEEE Trans. on Neural\n  Networks",
+    "categories": "cs.NE cs.AI cs.CV",
+    "abstract": "  The Parameter-Less Self-Organizing Map (PLSOM) is a new neural network\nalgorithm based on the Self",
+    "update_date": "2007-05-23",
+    "author": "Erik Berglund"
+  },
+  {
+    "id": "0705.0214",
+    "submitter": "Mourad Zerai",
+    "title": "Riemannian level-set methods for tensor-valued data",
+    "comments": "11 pages, 03 figures, to be published in the proceedings of SSVM\n  2007, LNCS Springer",
+    "categories": "cs.CV",
+    "abstract": "  We present a novel approach for the derivation of PDE modeling\ncurvature-driven flows for matrix-v",
+    "update_date": "2007-05-23",
+    "author": "Mourad Zerai"
+  },
+  {
+    "id": "0705.0413",
+    "submitter": "David Eppstein",
+    "title": "Edges and Switches, Tunnels and Bridges",
+    "comments": "15 pages, 11 figures. To appear in 10th Worksh. Algorithms and Data\n  Structures, Halifax, Nova Scotia, 2007. This version includes three pages of\n  appendices that will not be included in the conference proceedings version",
+    "categories": "cs.DS cs.CG",
+    "abstract": "  Edge casing is a well-known method to improve the readability of drawings of\nnon-planar graphs. A ",
+    "update_date": "2009-07-09",
+    "author": "David Eppstein"
+  },
+  {
+    "id": "0705.0693",
+    "submitter": "Tshilidzi Marwala",
+    "title": "Learning to Bluff",
+    "comments": "6 pages",
+    "categories": "cs.AI",
+    "abstract": "  The act of bluffing confounds game designers to this day. The very nature of\nbluffing is even open",
+    "update_date": "2007-05-23",
+    "author": "Evan Hurwitz"
+  },
+  {
+    "id": "0705.0734",
+    "submitter": "Sanjiang Li",
+    "title": "Soft constraint abstraction based on semiring homomorphism",
+    "comments": "18 pages, 1 figure",
+    "categories": "cs.AI",
+    "abstract": "  The semiring-based constraint satisfaction problems (semiring CSPs), proposed\nby Bistarelli, Monta",
+    "update_date": "2010-07-01",
+    "author": "Sanjiang Li"
+  },
+  {
+    "id": "0705.0761",
+    "submitter": "Tshilidzi Marwala",
+    "title": "Bayesian Approach to Neuro-Rough Models",
+    "comments": "24 pages, 5 figures, 1 table",
+    "categories": "cs.AI",
+    "abstract": "  This paper proposes a neuro-rough model based on multi-layered perceptron and\nrough set. The neuro",
+    "update_date": "2007-08-28",
+    "author": "Tshilidzi Marwala"
+  },
+  {
+    "id": "0705.0915",
+    "submitter": "Joerg Rothe",
+    "title": "Satisfiability Parsimoniously Reduces to the Tantrix(TM) Rotation Puzzle\n  Problem",
+    "comments": "19 pages, 16 figures, appears in the Proceedings of \"Machines,\n  Computations and Universality\" (MCU 2007)",
+    "categories": "cs.CC",
+    "abstract": "  Holzer and Holzer (Discrete Applied Mathematics 144(3):345--358, 2004) proved\nthat the Tantrix(TM)",
+    "update_date": "2008-06-09",
+    "author": "Dorothea Baumeister"
+  },
+  {
+    "id": "0705.0952",
+    "submitter": "Tshilidzi Marwala",
+    "title": "An Independent Evaluation of Subspace Face Recognition Algorithms",
+    "comments": "7 pages",
+    "categories": "cs.CV",
+    "abstract": "  This paper explores a comparative study of both the linear and kernel\nimplementations of three of ",
+    "update_date": "2007-05-23",
+    "author": "Dhiresh R. Surajpal"
+  },
+  {
+    "id": "0705.0969",
+    "submitter": "Tshilidzi Marwala",
+    "title": "Artificial Neural Networks and Support Vector Machines for Water Demand\n  Time Series Forecasting",
+    "comments": "6 pages",
+    "categories": "cs.AI",
+    "abstract": "  Water plays a pivotal role in many physical processes, and most importantly\nin sustaining human li",
+    "update_date": "2007-05-23",
+    "author": "Ishmael S. Msiza"
+  },
+  {
+    "id": "0705.1013",
+    "submitter": "Elizeu Santos-Neto",
+    "title": "Tracking User Attention in Collaborative Tagging Communities",
+    "comments": "8 pages. Proceedings of International ACM/IEEE Workshop on\n  Contextualized Attention Metadata: personalized access to digital resources\n  (http://ariadne.cs.kuleuven.ac.be/mediawiki/index.php/Cama2007)",
+    "categories": "cs.DL cs.CY",
+    "abstract": "  Collaborative tagging has recently attracted the attention of both industry\nand academia due to th",
+    "update_date": "2007-06-24",
+    "author": "Elizeu Santos-Neto"
+  },
+  {
+    "id": "0705.1025",
+    "submitter": "David Eppstein",
+    "title": "Recognizing Partial Cubes in Quadratic Time",
+    "comments": "25 pages, five figures. This version significantly expands previous\n  versions, including a new report on an implementation of the algorithm and\n  experiments with it",
+    "categories": "cs.DS",
+    "abstract": "  We show how to test whether a graph with n vertices and m edges is a partial\ncube, and if so how t",
+    "update_date": "2011-07-21",
+    "author": "David Eppstein"
+  },
+  {
+    "id": "0705.1214",
+    "submitter": "Tshilidzi Marwala",
+    "title": "Control of Complex Systems Using Bayesian Networks and Genetic Algorithm",
+    "comments": "6 pages",
+    "categories": "cs.CE cs.NE",
+    "abstract": "  A method based on Bayesian neural networks and genetic algorithm is proposed\nto control the fermen",
+    "update_date": "2007-05-23",
+    "author": "Tshilidzi Marwala"
+  },
+  {
+    "id": "0705.1364",
+    "submitter": "Mustaq Ahmed",
+    "title": "An Approximation Algorithm for Shortest Descending Paths",
+    "comments": "14 pages, 3 figures",
+    "categories": "cs.CG cs.DS",
+    "abstract": "  A path from s to t on a polyhedral terrain is descending if the height of a\npoint p never increase",
+    "update_date": "2007-05-23",
+    "author": "Mustaq Ahmed"
+  },
+  {
+    "id": "0705.1367",
+    "submitter": "Riccardo Pucella",
+    "title": "Logic Column 18: Alternative Logics: A Book Review",
+    "comments": "10 pages",
+    "categories": "cs.LO",
+    "abstract": "  This article discusses two books on the topic of alternative logics in\nscience: \"Deviant Logic\", b",
+    "update_date": "2007-05-23",
+    "author": "Riccardo Pucella"
+  },
+  {
+    "id": "0705.1521",
+    "submitter": "Frank Gurski",
+    "title": "A note on module-composed graphs",
+    "comments": "10 pages",
+    "categories": "cs.DS",
+    "abstract": "  In this paper we consider module-composed graphs, i.e. graphs which can be\ndefined by a sequence o",
+    "update_date": "2007-07-23",
+    "author": "Frank Gurski"
+  },
+  {
+    "id": "0705.1585",
+    "submitter": "Tshilidzi Marwala",
+    "title": "HMM Speaker Identification Using Linear and Non-linear Merging\n  Techniques",
+    "comments": "6 pages",
+    "categories": "cs.LG",
+    "abstract": "  Speaker identification is a powerful, non-invasive and in-expensive biometric\ntechnique. The recog",
+    "update_date": "2007-05-23",
+    "author": "Unathi Mahola"
+  },
+  {
+    "id": "0705.1674",
+    "submitter": "Tshilidzi Marwala",
+    "title": "Evolutionary Optimisation Methods for Template Based Image Registration",
+    "comments": "6 pages",
+    "categories": "cs.CE cs.CV",
+    "abstract": "  This paper investigates the use of evolutionary optimisation techniques to\nregister a template wit",
+    "update_date": "2007-05-23",
+    "author": "Lukasz A Machowski"
+  },
+  {
+    "id": "0705.1680",
+    "submitter": "Tshilidzi Marwala",
+    "title": "Option Pricing Using Bayesian Neural Networks",
+    "comments": "7 pages",
+    "categories": "cs.CE cs.NE",
+    "abstract": "  Options have provided a field of much study because of the complexity\ninvolved in pricing them. Th",
+    "update_date": "2007-05-23",
+    "author": "Michael Maio Pires"
+  },
+  {
+    "id": "0705.1750",
+    "submitter": "Peng Cui",
+    "title": "A Tighter Analysis of Setcover Greedy Algorithm for Test Set",
+    "comments": "12 pages, 3 figures, Revised version",
+    "categories": "cs.DS",
+    "abstract": "  Setcover greedy algorithm is a natural approximation algorithm for test set\nproblem. This paper gi",
+    "update_date": "2011-03-08",
+    "author": "Peng Cui"
+  },
+  {
+    "id": "0705.1759",
+    "submitter": "Tshilidzi Marwala",
+    "title": "Finite Element Model Updating Using Response Surface Method",
+    "comments": "9 pages",
+    "categories": "cs.CE",
+    "abstract": "  This paper proposes the response surface method for finite element model\nupdating. The response su",
+    "update_date": "2007-05-23",
+    "author": "Tshilidzi Marwala"
+  },
+  {
+    "id": "0705.1760",
+    "submitter": "Tshilidzi Marwala",
+    "title": "Dynamic Model Updating Using Particle Swarm Optimization Method",
+    "comments": "6 pages",
+    "categories": "cs.CE cs.NE",
+    "abstract": "  This paper proposes the use of particle swarm optimization method (PSO) for\nfinite element (FE) mo",
+    "update_date": "2007-05-23",
+    "author": "Tshilidzi Marwala"
+  },
+  {
+    "id": "0705.1761",
+    "submitter": "Tshilidzi Marwala",
+    "title": "Modeling and Controlling Interstate Conflict",
+    "comments": "6 pages",
+    "categories": "cs.CY",
+    "abstract": "  Bayesian neural networks were used to model the relationship between input\nparameters, Democracy, ",
+    "update_date": "2007-05-23",
+    "author": "Tshilidzi Marwala"
+  },
+  {
+    "id": "0705.1915",
+    "submitter": "John Kouvakis",
+    "title": "A Technical Report On Grid Benchmarking using ATLAS V.O",
+    "comments": "29 pages, 35 figures, including charts and results of benchmarking\n  over the grid, ATLAS V.O",
+    "categories": "cs.PF",
+    "abstract": "  Grids include heterogeneous resources, which are based on different hardware\nand software architec",
+    "update_date": "2007-06-13",
+    "author": "John Kouvakis"
+  },
+  {
+    "id": "0705.1956",
+    "submitter": "Dan Chen",
+    "title": "A Branch and Cut Algorithm for the Halfspace Depth Problem",
+    "comments": "110 pages, 25 figures",
+    "categories": "cs.CG",
+    "abstract": "  The concept of data depth in non-parametric multivariate descriptive\nstatistics is the generalizat",
+    "update_date": "2007-05-23",
+    "author": "Dan Chen"
+  },
+  {
+    "id": "0705.1986",
+    "submitter": "Andrei Paun",
+    "title": "On the Hopcroft's minimization algorithm",
+    "comments": "10 pages, 1 figure",
+    "categories": "cs.DS",
+    "abstract": "  We show that the absolute worst case time complexity for Hopcroft's\nminimization algorithm applied",
+    "update_date": "2007-05-23",
+    "author": "Andrei Paun"
+  },
+  {
+    "id": "0705.2011",
+    "submitter": "Alex Graves",
+    "title": "Multi-Dimensional Recurrent Neural Networks",
+    "comments": "10 pages, 10 figures",
+    "categories": "cs.AI cs.CV",
+    "abstract": "  Recurrent neural networks (RNNs) have proved effective at one dimensional\nsequence learning tasks,",
+    "update_date": "2007-05-23",
+    "author": "Alex Graves"
+  },
+  {
+    "id": "0705.2137",
+    "submitter": "Igor Pesek",
+    "title": "Best insertion algorithm for resource-constrained project scheduling\n  problem",
+    "comments": "8 pages, submitted to conference KOI 2006",
+    "categories": "cs.DM",
+    "abstract": "  This paper considers heuristics for well known resource-constrained project\nscheduling problem (RC",
+    "update_date": "2007-05-23",
+    "author": "Igor Pesek"
+  },
+  {
+    "id": "0705.2147",
+    "submitter": "Guilhem Semerjian",
+    "title": "On the freezing of variables in random constraint satisfaction problems",
+    "comments": "32 pages, 7 figures",
+    "categories": "cond-mat.stat-mech cond-mat.dis-nn cs.CC math.PR",
+    "abstract": "  The set of solutions of random constraint satisfaction problems (zero energy\ngroundstates of mean-",
+    "update_date": "2007-12-19",
+    "author": "Guilhem Semerjian"
+  },
+  {
+    "id": "0705.2170",
+    "submitter": "Krzysztof R. Apt",
+    "title": "Sequential mechanism design",
+    "comments": "28 pages",
+    "categories": "cs.GT",
+    "abstract": "  In the customary VCG (Vickrey-Clarke-Groves) mechanism truth-telling is a\ndominant strategy. In th",
+    "update_date": "2016-08-14",
+    "author": "Krzysztof R. Apt"
+  },
+  {
+    "id": "0705.2205",
+    "submitter": "Nir Piterman",
+    "title": "From Nondeterministic B\\\"uchi and Streett Automata to Deterministic\n  Parity Automata",
+    "comments": "21 pages. To appear in Logical Methods in Computer Science (LMCS)",
+    "categories": "cs.LO cs.FL",
+    "abstract": "  In this paper we revisit Safra's determinization constructions for automata\non infinite words. We ",
+    "update_date": "2019-03-14",
+    "author": "Nir Piterman"
+  },
+  {
+    "id": "0705.2236",
+    "submitter": "Tshilidzi Marwala",
+    "title": "Fault Classification using Pseudomodal Energies and Neuro-fuzzy\n  modelling",
+    "comments": "8 pages, In Proceedings of the Asia-Pacific Workshop on Structural\n  Health Monitoring, Yokohama, Japan, 2006",
+    "categories": "cs.AI",
+    "abstract": "  This paper presents a fault classification method which makes use of a\nTakagi-Sugeno neuro-fuzzy m",
+    "update_date": "2007-05-23",
+    "author": "Tshilidzi Marwala"
+  },
+  {
+    "id": "0705.2305",
+    "submitter": "Tshilidzi Marwala",
+    "title": "Fuzzy and Multilayer Perceptron for Evaluation of HV Bushings",
+    "comments": "7 pages",
+    "categories": "cs.AI cs.NE",
+    "abstract": "  The work proposes the application of fuzzy set theory (FST) to diagnose the\ncondition of high volt",
+    "update_date": "2007-05-23",
+    "author": "Sizwe M. Dhlamini"
+  },
+  {
+    "id": "0705.2307",
+    "submitter": "Tshilidzi Marwala",
+    "title": "A Study in a Hybrid Centralised-Swarm Agent Community",
+    "comments": "6 pages",
+    "categories": "cs.NE cs.AI",
+    "abstract": "  This paper describes a systems architecture for a hybrid Centralised/Swarm\nbased multi-agent syste",
+    "update_date": "2007-05-23",
+    "author": "Bradley van Aardt"
+  },
+  {
+    "id": "0705.2313",
+    "submitter": "Olivier Powell",
+    "title": "TrustMIX: Trustworthy MIX for Energy Saving in Sensor Networks",
+    "comments": "19 pages, 7 figures",
+    "categories": "cs.DC cs.CR cs.NI",
+    "abstract": "  MIX has recently been proposed as a new sensor scheme with better energy\nmanagement for data-gathe",
+    "update_date": "2007-05-23",
+    "author": "Olivier Powell"
+  },
+  {
+    "id": "0705.2318",
+    "submitter": "Seiji Miyoshi",
+    "title": "Statistical Mechanics of Nonlinear On-line Learning for Ensemble\n  Teachers",
+    "comments": "13 pages, 9 figures",
+    "categories": "cs.LG cond-mat.dis-nn",
+    "abstract": "  We analyze the generalization performance of a student in a model composed of\nnonlinear perceptron",
+    "update_date": "2009-11-13",
+    "author": "Hideto Utsumi"
+  },
+  {
+    "id": "0705.2351",
+    "submitter": "Christian Reinboth",
+    "title": "The Use of ITIL for Process Optimisation in the IT Service Centre of\n  Harz University, exemplified in the Release Management Process",
+    "comments": "7 pages, 7 figures",
+    "categories": "cs.OH",
+    "abstract": "  This paper details the use of the IT Infrastructure Library Framework (ITIL)\nfor optimising proces",
+    "update_date": "2007-05-23",
+    "author": "Hans-Juergen Scheruhn"
+  },
+  {
+    "id": "0705.2485",
+    "submitter": "Bodie Crossingham",
+    "title": "Using Genetic Algorithms to Optimise Rough Set Partition Sizes for HIV\n  Data Analysis",
+    "comments": "10 pages, 1 figure, Update Bibliography",
+    "categories": "cs.NE cs.AI q-bio.QM",
+    "abstract": "  In this paper, we present a method to optimise rough set partition sizes, to\nwhich rule extraction",
+    "update_date": "2007-06-25",
+    "author": "Bodie Crossingham"
+  },
+  {
+    "id": "0705.2503",
+    "submitter": "Peng Cui",
+    "title": "Improved Approximability Result for Test Set with Small Redundancy",
+    "comments": "7 pages",
+    "categories": "cs.DS cs.CC",
+    "abstract": "  Test set with redundancy is one of the focuses in recent bioinformatics\nresearch. Set cover greedy",
+    "update_date": "2007-09-27",
+    "author": "Peng Cui"
+  },
+  {
+    "id": "0705.2604",
+    "submitter": "Tshilidzi Marwala",
+    "title": "Computational Intelligence for Condition Monitoring",
+    "comments": "23 pages",
+    "categories": "cs.CE",
+    "abstract": "  Condition monitoring techniques are described in this chapter. Two aspects of\ncondition monitoring",
+    "update_date": "2007-05-23",
+    "author": "Tshilidzi Marwala"
+  },
+  {
+    "id": "0705.2765",
+    "submitter": "Rustem Takhanov",
+    "title": "On the monotonization of the training set",
+    "comments": "10 pages",
+    "categories": "cs.LG cs.AI",
+    "abstract": "  We consider the problem of minimal correction of the training set to make it\nconsistent with monot",
+    "update_date": "2007-05-23",
+    "author": "Rustem Takhanov"
+  },
+  {
+    "id": "0705.2835",
+    "submitter": "Binhai Zhu",
+    "title": "Voronoi Diagram of Polygonal Chains under the Discrete Fr\\'echet\n  Distance",
+    "comments": "13 pages, 2 figures",
+    "categories": "cs.CG cs.CC",
+    "abstract": "  Polygonal chains are fundamental objects in many applications like pattern\nrecognition and protein",
+    "update_date": "2007-05-23",
+    "author": "Sergey Bereg"
+  },
+  {
+    "id": "0705.3468",
+    "submitter": "Neng-Fa Zhou",
+    "title": "Linear Tabling Strategies and Optimizations",
+    "comments": "29 pages, 1 figure, TPLP",
+    "categories": "cs.PL",
+    "abstract": "  Recently, the iterative approach named linear tabling has received\nconsiderable attention because ",
+    "update_date": "2007-05-25",
+    "author": "Neng-Fa Zhou"
+  },
+  {
+    "id": "0705.3748",
+    "submitter": "Oleg Verbitsky",
+    "title": "On the Obfuscation Complexity of Planar Graphs",
+    "comments": "12 pages, 1 figure. The proof of Theorem 3 is simplified. An overview\n  of a related work is added",
+    "categories": "cs.DM cs.CC",
+    "abstract": "  Being motivated by John Tantalo's Planarity Game, we consider straight line\nplane drawings of a pl",
+    "update_date": "2011-11-10",
+    "author": "Oleg Verbitsky"
+  },
+  {
+    "id": "0705.4302",
+    "submitter": "Jens Oehlschl\\\"agel",
+    "title": "Truecluster matching",
+    "comments": "15 pages, 2 figures. Details the matching needed for \"Truecluster:\n  robust scalable clustering with model selection\" but can also be used in\n  different contexts",
+    "categories": "cs.AI",
+    "abstract": "  Cluster matching by permuting cluster labels is important in many clustering\ncontexts such as clus",
+    "update_date": "2007-05-31",
+    "author": "Jens Oehlschl\\\"agel"
+  },
+  {
+    "id": "0705.4442",
+    "submitter": "Dan Olteanu",
+    "title": "World-set Decompositions: Expressiveness and Efficient Algorithms",
+    "comments": "34 pages, 13 figures, extended version of ICDT'07 paper",
+    "categories": "cs.DB",
+    "abstract": "  Uncertain information is commonplace in real-world data management scenarios.\nThe ability to repre",
+    "update_date": "2008-01-09",
+    "author": "Dan Olteanu"
+  },
+  {
+    "id": "0705.4618",
+    "submitter": "Roberto Bagnara",
+    "title": "An Improved Tight Closure Algorithm for Integer Octagonal Constraints",
+    "comments": "15 pages, 2 figures",
+    "categories": "cs.DS cs.CG cs.LO",
+    "abstract": "  Integer octagonal constraints (a.k.a. ``Unit Two Variables Per Inequality''\nor ``UTVPI integer con",
+    "update_date": "2007-06-01",
+    "author": "Roberto Bagnara"
+  },
+  {
+    "id": "0706.0280",
+    "submitter": "Tshilidzi Marwala",
+    "title": "Multi-Agent Modeling Using Intelligent Agents in the Game of Lerpa",
+    "comments": "32 pages",
+    "categories": "cs.MA cs.GT",
+    "abstract": "  Game theory has many limitations implicit in its application. By utilizing\nmultiagent modeling, it",
+    "update_date": "2007-06-05",
+    "author": "Evan Hurwitz"
+  },
+  {
+    "id": "0706.0300",
+    "submitter": "Tshilidzi Marwala",
+    "title": "Automatic Detection of Pulmonary Embolism using Computational\n  Intelligence",
+    "comments": "5 pages",
+    "categories": "cs.CV",
+    "abstract": "  This article describes the implementation of a system designed to\nautomatically detect the presenc",
+    "update_date": "2007-06-05",
+    "author": "Simon Scurrell"
+  },
+  {
+    "id": "0706.0502",
+    "submitter": "Eugen Zalinescu",
+    "title": "Relating two standard notions of secrecy",
+    "comments": "29 pages, published in LMCS",
+    "categories": "cs.CR cs.LO",
+    "abstract": "  Two styles of definitions are usually considered to express that a security\nprotocol preserves the",
+    "update_date": "2015-07-01",
+    "author": "Veronique Cortier"
+  },
+  {
+    "id": "0706.0585",
+    "submitter": "Zhendong Zhao",
+    "title": "A Novel Model of Working Set Selection for SMO Decomposition Methods",
+    "comments": "8 pages, 12 figures, it was submitted to IEEE International\n  conference of Tools on Artificial Intelligence",
+    "categories": "cs.LG cs.AI",
+    "abstract": "  In the process of training Support Vector Machines (SVMs) by decomposition\nmethods, working set se",
+    "update_date": "2016-11-15",
+    "author": "Zhendong Zhao"
+  },
+  {
+    "id": "0706.0870",
+    "submitter": "Nachi Gupta",
+    "title": "Inferring the Composition of a Trader Population in a Financial Market",
+    "comments": "15 pages, 2 figures, to appear as a chapter in \"Econophysics and\n  Sociophysics of Markets and Networks\", Springer-Verlag",
+    "categories": "cs.CE nlin.AO",
+    "abstract": "  We discuss a method for predicting financial movements and finding pockets of\npredictability in th",
+    "update_date": "2015-05-13",
+    "author": "Nachi Gupta"
+  },
+  {
+    "id": "0706.0903",
+    "submitter": "Georgy Karev",
+    "title": "Families of traveling impulses and fronts in some models with\n  cross-diffusion",
+    "comments": "20 pages, 9 figures; submitted to Journal of Nonlinear Analysis: Real\n  World Applications",
+    "categories": "cs.NA",
+    "abstract": "  An analysis of traveling wave solutions of partial differential equation\n(PDE) systems with cross-",
+    "update_date": "2007-06-08",
+    "author": "Faina Berezovskaya"
+  },
+  {
+    "id": "0706.1001",
+    "submitter": "Krzysztof R. Apt",
+    "title": "Epistemic Analysis of Strategic Games with Arbitrary Strategy Sets",
+    "comments": "8 pages Proc. of the 11th Conference on Theoretical Aspects of\n  Rationality and Knowledge (TARK XI), 2007. To appear",
+    "categories": "cs.GT cs.AI",
+    "abstract": "  We provide here an epistemic analysis of arbitrary strategic games based on\nthe possibility corres",
+    "update_date": "2007-06-08",
+    "author": "Krzysztof R. Apt"
+  },
+  {
+    "id": "0706.1395",
+    "submitter": "Hulya Seferoglu",
+    "title": "Opportunistic Network Coding for Video Streaming over Wireless",
+    "comments": "11 pages, 8 figures (14 subfigures)",
+    "categories": "cs.NI",
+    "abstract": "  In this paper, we study video streaming over wireless networks with network\ncoding capabilities. W",
+    "update_date": "2007-06-12",
+    "author": "Hulya Seferoglu"
+  },
+  {
+    "id": "0706.1617",
+    "submitter": "Krzysztof R. Apt",
+    "title": "Relative Strength of Strategy Elimination Procedures",
+    "comments": "8 pages",
+    "categories": "cs.GT",
+    "abstract": "  We compare here the relative strength of four widely used procedures on\nfinite strategic games: it",
+    "update_date": "2007-06-13",
+    "author": "Krzysztof R. Apt"
+  },
+  {
+    "id": "0706.1860",
+    "submitter": "Jordi Cucurull",
+    "title": "FIPA-based Interoperable Agent Mobility Proposal",
+    "comments": "10 pages, agent migration architecture proposal",
+    "categories": "cs.MA cs.NI",
+    "abstract": "  This paper presents a proposal for a flexible agent mobility architecture\nbased on IEEE-FIPA stand",
+    "update_date": "2011-11-10",
+    "author": "Jordi Cucurull"
+  },
+  {
+    "id": "0706.1926",
+    "submitter": "Michele Bezzi",
+    "title": "Towards understanding and modelling office daily life",
+    "comments": "5 pages, ECHISE 2006 - 2nd International Workshop on Exploiting\n  Context Histories in Smart Environments - Infrastructures and Design, 8th\n  International Conference of Ubiquitous Computing (Ubicomp 2006), Orange\n  County, CA, 17-21 September 2006",
+    "categories": "cs.CV cs.CY",
+    "abstract": "  Measuring and modeling human behavior is a very complex task. In this paper\nwe present our initial",
+    "update_date": "2007-06-14",
+    "author": "Michele Bezzi"
+  },
+  {
+    "id": "0706.2010",
+    "submitter": "Anne Broadbent",
+    "title": "Information-theoretic security without an honest majority",
+    "comments": "15 pages, to appear in Proceedings of ASIACRYPT 2007",
+    "categories": "cs.CR",
+    "abstract": "  We present six multiparty protocols with information-theoretic security that\ntolerate an arbitrary",
+    "update_date": "2016-01-06",
+    "author": "Anne Broadbent"
+  },
+  {
+    "id": "0706.2035",
+    "submitter": "Michael Silverman",
+    "title": "Critique of Feinstein's Proof that P is not Equal to NP",
+    "comments": "5 pages, 2 definitions",
+    "categories": "cs.CC",
+    "abstract": "  We examine a proof by Craig Alan Feinstein that P is not equal to NP. We\npresent counterexamples t",
+    "update_date": "2007-06-15",
+    "author": "Kyle Sabo"
+  },
+  {
+    "id": "0706.2076",
+    "submitter": "Klaus Aehlig",
+    "title": "A Finite Semantics of Simply-Typed Lambda Terms for Infinite Runs of<br>\n  Automata",
+    "comments": "23 pages",
+    "categories": "cs.LO",
+    "abstract": "  Model checking properties are often described by means of finite automata.\nAny particular such aut",
+    "update_date": "2015-07-01",
+    "author": "Klaus Aehlig"
+  },
+  {
+    "id": "0706.2146",
+    "submitter": "Rajesh Sudarsan",
+    "title": "Efficient Multidimensional Data Redistribution for Resizable Parallel\n  Computations",
+    "comments": "18 pages, 12 figures, 2 tables. A shorter version of this paper is\n  available in the proceedings of the The Fifth International Symposium on\n  Parallel and Distributed Processing and Applications (ISPA07)",
+    "categories": "cs.DC",
+    "abstract": "  Traditional parallel schedulers running on cluster supercomputers support\nonly static scheduling, ",
+    "update_date": "2007-06-15",
+    "author": "Rajesh Sudarsan"
+  },
+  {
+    "id": "0706.2155",
+    "submitter": "Greg Sepesi",
+    "title": "Dualheap Selection Algorithm: Efficient, Inherently Parallel and\n  Somewhat Mysterious",
+    "comments": "5 pages, 6 figures",
+    "categories": "cs.DS cs.CC cs.DC",
+    "abstract": "  An inherently parallel algorithm is proposed that efficiently performs\nselection: finding the K-th",
+    "update_date": "2007-06-15",
+    "author": "Greg Sepesi"
+  },
+  {
+    "id": "0706.2585",
+    "submitter": "Richard Mayr",
+    "title": "Decisive Markov Chains",
+    "comments": "32 pages, 0 figures",
+    "categories": "cs.LO cs.DM",
+    "abstract": "  We consider qualitative and quantitative verification problems for\ninfinite-state Markov chains. W",
+    "update_date": "2015-07-01",
+    "author": "Parosh Aziz Abdulla"
+  }
+]
