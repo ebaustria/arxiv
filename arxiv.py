@@ -67,6 +67,20 @@ for dictionary in data:
 
     article_id = dictionary["id"].replace(" ", "")
 
+    bigRelationDictionary = {
+        "id": article_id,
+        "submitter": dictionary["submitter"].replace(" ", ""),
+        "title": title,
+        "pages": numPages,
+        "figures": numFigures,
+        "comment": comment,
+        "abstract": abstract,
+        "update_date": dictionary["update_date"],
+        "author": dictionary["author"].replace(" ", "")
+    }
+
+    relation1.append(bigRelationDictionary)
+
     for cat in categoriesList:
         catAndSubCat = cat.split('.')
         category = catAndSubCat[0]
@@ -82,22 +96,9 @@ for dictionary in data:
             "sub-category": subCategory
         }
 
-        bigRelationDictionary = {
-            "id": article_id,
-            "submitter": dictionary["submitter"].replace(" ", ""),
-            "title": title,
-            "pages": numPages,
-            "figures": numFigures,
-            "comment": comment,
-            "abstract": abstract,
-            "update_date": dictionary["update_date"],
-            "author": dictionary["author"].replace(" ", "")
-        }
-
-        relation1.append(bigRelationDictionary)
-        relation3.append(candidateKeyDictionary)
         if smallRelationDictionary not in relation2:
             relation2.append(smallRelationDictionary)
+        relation3.append(candidateKeyDictionary)
 
 engine = sql.create_engine('sqlite:///assets/articles.db', echo=True)
 
