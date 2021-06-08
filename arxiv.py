@@ -3,6 +3,14 @@ import pandas as pd
 import numpy as np
 import sqlalchemy as sql
 
+
+def find_number(to_search: str):
+    if to_search in commentsList:
+        number = commentsList[commentsList.index(to_search) - 1]
+        commentsList.remove(number)
+        commentsList.remove(to_search)
+
+
 with open('assets/arxiv.json') as archive:
     data = json.load(archive)
 
@@ -28,10 +36,23 @@ for dictionary in data:
         commentsList.remove(numPages)
         commentsList.remove("pages")
 
-    if "figures" in commentsList:
-        numFigures = commentsList[commentsList.index("figures") - 1]
-        commentsList.remove(numFigures)
+    if "page" in commentsList:
+        numPages = commentsList[commentsList.index("page") - 1]
+        commentsList.remove(numPages)
+        commentsList.remove("page")
+
+    if "figures" in commentsList and commentsList[commentsList.index("figures") - 1] != "with":
+        count = commentsList[commentsList.index("figures") - 1]
+        commentsList.remove(count)
+        if count == "five":
+            count = "5"
+        numFigures = count
         commentsList.remove("figures")
+
+    if "figure" in commentsList:
+        numFigures = commentsList[commentsList.index("figure") - 1]
+        commentsList.remove(numFigures)
+        commentsList.remove("figure")
 
     index = 0
     while index < len(commentsList):
