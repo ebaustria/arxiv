@@ -105,9 +105,9 @@ df1 = pd.DataFrame(relation1)
 df2 = pd.DataFrame(relation2)
 df3 = pd.DataFrame(relation3)
 
-df1.to_sql('article', con=engine, if_exists='replace')
-df2.to_sql('category', con=engine, if_exists='replace')
-df3.to_sql('id_subcat', con=engine, if_exists='replace')
+df1.to_sql('article', con=engine, if_exists='replace', index=False)
+df2.to_sql('category', con=engine, if_exists='replace', index=False)
+df3.to_sql('id_subcat', con=engine, if_exists='replace', index=False)
 
 np.savetxt('assets/article.txt', df1, fmt='%s')
 np.savetxt('assets/category.txt', df2, fmt='%s')
