@@ -1,6 +1,7 @@
 import json
 import pandas as pd
 import numpy as np
+import sqlalchemy as sql
 
 with open('assets/arxiv.json') as archive:
     data = json.load(archive)
@@ -75,8 +76,12 @@ for dictionary in data:
         if smallRelationDictionary not in relation2:
             relation2.append(smallRelationDictionary)
 
+engine = sql.create_engine('sqlite:///assets/articles.db', echo=True)
 df1 = pd.DataFrame(relation1)
 df2 = pd.DataFrame(relation2)
+df1.to_sql('article', con=engine, if_exists='replace')
+df2.to_sql('category', con=engine, if_exists='replace')
+
 np.savetxt('assets/article.txt', df1, fmt='%s')
 np.savetxt('assets/category.txt', df2, fmt='%s')
 
